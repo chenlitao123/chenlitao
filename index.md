@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="utf-8"> 
+<title>电动机(runoob.com)</title> 
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/chenlitao123/chenlitao/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=78000241_21_hao_pg&wd=HTML5%E5%9C%A8%E7%BA%BF&rsv_pq=c2a569ec001e4d7c&rsv_t=4b0cYOrLBTqwGrHD3yF7ZmqC8xhWdWrgoTLXm77c2NAfug%2FRm2xum9XFTkyIVImned9mBIF%2BptyX&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=7&rsv_sug1=6&rsv_sug7=101&prefixsug=HTML5%25E5%259C%25A8%25E7%25BA%25BF&rsp=0&inputT=13287&rsv_sug4=14346" target="_blank">访问菜鸟一肉肉!</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>如果你将 target 属性设置为 &quot;_blank&quot;, 链接将在新窗口打开。</p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenlitao123/chenlitao/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
